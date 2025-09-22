@@ -16,7 +16,7 @@ Invoke isEqual & display if points are same or different (i.e p1 & p2 are locate
 at the same position) 
 If they are not located at the same position , display distance between p1 & 
 p2  */
-package com.app.geometry;
+//package com.app.geometry;
 class Point2D{
     private int x;
     private int y;
